@@ -9,7 +9,7 @@ Il wireframe è anche disponibile online qui: https://wireframe.cc/Kjlheg.
 Eseguite le seguenti operazioni:
 
 - [ ] accedete con il vostro account personale (**non sbagliate password!**)
-- [ ] fate il fork di questo progetto
+- [ ] fate il fork di questo progetto premendo il tasto con la forchetta in alto a destra della pagina
 - [ ] copiate l'URL relativo al **vostro** progetto
 - [ ] dalla barra di menu in alto selezionate "Command Palette"
 - [ ] scrivete "Git Clone" e selezionate la relativa voce
