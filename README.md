@@ -33,9 +33,6 @@ Quando avete finito e **comunque 5 minuti prima** dello scadere del tempo (vi ve
 - [ ] quando richiesto, inserite la **vostra** username e password di GitHub
 - [ ] per confermare la consegna del compito, tornate sul mio repository originale, andate su "Issues" e rispondete alla mia issue con il testo "Consegnato"
 
-# Note implementazione progetto
-Controllate il risultato della vostra pagina il più spesso possibile per essere sicuri che state procedendo correttamente.
-
 # Calcolo del punteggio
 - Titolo pagina corretto: 1 punto
 - Visualizzazione di una immagine: 1 punto
@@ -48,8 +45,11 @@ Controllate il risultato della vostra pagina il più spesso possibile per essere
 - Corretta divisione del wireframe in elementi: 1 punti
 - Corretta scelta dei tag: 1 punti
 - Indentazione del codice: 1 punto
+- Corretta capitalizzazione di tutto il testo: 1 punto
 
 # Note generali
+Controllate il risultato della vostra pagina il più spesso possibile per essere sicuri che state procedendo correttamente.
+
 **È possibile** consultare Internet o progetti di esempio forniti dal docente durante la verifica.
 
 Al contrario, **non è possibile** comunicare o copiare dai compagni di classe.
